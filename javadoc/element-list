@@ -1,0 +1,8 @@
+unnamed package
+org.FullProject
+org.FullProject.Chat
+org.FullProject.infrastructure.application.controller
+org.FullProject.infrastructure.application.model
+org.FullProject.infrastructure.application.repository
+org.FullProject.infrastructure.application.service
+org.FullProject.PeerToPeer
