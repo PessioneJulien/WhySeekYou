@@ -47,7 +47,7 @@ L'API ainsi que l'interface sont disponibles via MainInterface.java
 #### getTopic(idUsers1, idUsers2)
 
 ```http
-  GET /api/topic/{idUsers1}/getTopic/{idUsers2}
+  GET /topic/{idUsers1}/getTopic/{idUsers2}
 ```
 
 | Parameter | Type     | Description                       |
