@@ -1,0 +1,5 @@
+INSERT INTO Users(nom, prenom, mail, password, date_Naissance) VALUES
+                                                                  ('Laurent', 'GINA', 'laurentgina@mail.com', 'laurent','01/01/2001'),
+                                                                  ('Sophie', 'FONCEK', 'sophiefoncek@mail.com', 'sophie','02/02/2002'),
+                                                                  ('Agathe', 'FEELING', 'agathefeeling@mail.com', 'agathe','03/03/2003'),
+								                                  ('bob', 'testeur', 'bobletesteurfou@mail.com', 'bobmdp', '10/10/1900');
