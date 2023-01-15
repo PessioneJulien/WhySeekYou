@@ -40,6 +40,8 @@ Le P2P est fonctionnels en dehors de l'interface via Main.java
 
 L'API ainsi que l'interface sont disponibles via MainInterface.java
 
+Si l'interface ne fonctionne pas avec l'api elle est disponible dans le dossier demo de façon fonctionnel
+
 
 
 ## API Reference
